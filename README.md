@@ -1,1 +1,1 @@
-# ilk-qadam
+print("hello world")
